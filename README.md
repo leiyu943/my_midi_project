@@ -3,4 +3,4 @@
 My midi projects, I use both fl studio and reaper, please DON'T use my files for commercial purposes.
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
-试听见（audio see）：https://music.163.com/#/artist?id=12280498
+试听见（see audios at）：https://music.163.com/#/artist?id=12280498
